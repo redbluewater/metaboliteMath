@@ -1,0 +1,97 @@
+KEGG,mtabNames_x,extEff_x,Sargasso_x,mtabNames_y,extEff_y,Sargasso_y,nReactions,nPathways
+C00196,2-3-dihydroxybenzoic acid,100.9,Yes,2-3-dihydroxybenzoic acid,100.9,Yes,9.0,6.0
+C19675,2-3-dihydroxypropane1sulfonate,0.6,Yes,2-3-dihydroxypropane1sulfonate,0.6,Yes,1.0,1.0
+C08276,3-mercapto proprionate,88.6,Yes,3-mercapto proprionate,88.6,Yes,3.0,3.0
+C00141,3-methyl-2-oxobutanoic acid,10.1,Yes,3-methyl-2-oxobutanoic acid,10.1,Yes,15.0,10.0
+C00671,3-methyl-2-oxopentanoic acid,50.1,,3-methyl-2-oxopentanoic acid,50.1,,10.0,8.0
+C04294,HET,11.2,Yes,HET,11.2,Yes,4.0,3.0
+C00568,4-aminobenzoic acid,18.5,Yes,4-aminobenzoic acid,18.5,Yes,10.0,6.0
+C00156,4-hydroxybenzoic acid,88.0,Yes,4-hydroxybenzoic acid,88.0,Yes,31.0,13.0
+C00233,4-methyl-2-oxopentanoic acid,43.4,,4-methyl-2-oxopentanoic acid,43.4,,8.0,8.0
+C01279,HMP,0.0,,HMP,0.0,,3.0,4.0
+C20267,AmMP,0.0,,AmMP,0.0,,2.0,2.0
+C00170,5'-Deoxy-5'(methylthio)adenosine,80.9,Yes,5'-Deoxy-5'(methylthio)adenosine,80.9,Yes,29.0,4.0
+C00334,GABA,0.0,,GABA,0.0,,13.0,18.0
+0,acetyltaurine,0.0,,,,,,
+0,chitotriose,5.6,Yes,,,,,
+C00147,adenine pos,0.0,,adenine pos,0.0,,19.0,5.0
+C00212,adenosine,6.5,Yes,adenosine,6.5,Yes,12.0,14.0
+C00020,adenosine 5'-monophosphate pos,0.2,,adenosine 5'-monophosphate pos,0.2,,310.0,28.0
+C00026,alpha-ketoglutaric acid,0.0,,alpha-ketoglutaric acid,0.0,,297.0,39.0
+C00062,arginine,0.0,,arginine,0.0,,43.0,20.0
+C00049,aspartic acid pos,0.0,,aspartic acid pos,0.0,,43.0,33.0
+C00719,betaine,0.0,,betaine,0.0,,12.0,3.0
+C00120,biotin neg,52.8,Yes,biotin neg,52.8,Yes,10.0,5.0
+C07481,caffeine,23.5,Yes,caffeine,23.5,Yes,9.0,6.0
+C01674,chitobiose pos,0.3,,chitobiose pos,0.3,,7.0,4.0
+C00114,choline,0.0,,choline,0.0,,23.0,8.0
+C03557,ciliatine,0.0,,ciliatine,0.0,,8.0,4.0
+C00158,citric acid,0.9,,citric acid,0.9,,13.0,24.0
+C00327,citrulline,0.0,,citrulline,0.0,,12.0,4.0
+C08230,cyanocobalamin,79.1,Yes,cyanocobalamin,79.1,Yes,1.0,1.0
+C00097,l-cysteine,0.0,,l-cysteine,0.0,,50.0,23.0
+C00380,cytosine,0.0,,cytosine,0.0,,5.0,3.0
+C01909,desthiobiotin pos,6.5,Yes,desthiobiotin pos,6.5,Yes,3.0,3.0
+C00352,D-glucosamine 6-phosphate,0.0,,D-glucosamine 6-phosphate,0.0,,11.0,7.0
+C00117,D-ribose 5-phosphate,0.1,Yes,D-ribose 5-phosphate,0.1,Yes,23.0,12.0
+C00111,dihydroxyacetone phosphate,0.0,,dihydroxyacetone phosphate,0.0,,38.0,17.0
+C04022,DMSP,0.0,,DMSP,0.0,,2.0,2.0
+C06231,ectoine,0.0,,ectoine,0.0,,3.0,3.0
+C00504,folic acid neg,41.2,Yes,folic acid neg,41.2,Yes,4.0,8.0
+C06454,fosfomycin,0.0,,fosfomycin,0.0,,1.0,3.0
+C00122,fumaric acid,0.0,,fumaric acid,0.0,,22.0,29.0
+C00092,glucose6P,0.0,,glucose6P,0.0,,34.0,18.0
+C00025,glutamic acid,0.0,,glutamic acid,0.0,,212.0,52.0
+C00064,glutamine,0.0,,glutamine,0.0,,49.0,23.0
+C00051,l-glutathione,1.1,Yes,l-glutathione,1.1,Yes,95.0,10.0
+C00127,glutathione oxidized,1.5,Yes ,glutathione oxidized,1.5,Yes ,30.0,7.0
+C01705,glyphosate,15.1,,glyphosate,15.1,,1.0,1.0
+C00242,guanine,0.0,,guanine,0.0,,7.0,3.0
+C00387,guanosine pos,7.7,Yes,guanosine pos,7.7,Yes,6.0,4.0
+C06767,hemin II,0.0,,hemin II,0.0,,1.0,1.0
+C00954,indole 3-acetic acid,16.8,Yes,indole 3-acetic acid,16.8,Yes,16.0,4.0
+C00294,inosine,8.1,Yes,inosine,8.1,Yes,8.0,4.0
+C00130,inosine 5'-monophosphate neg,0.0,,inosine 5'-monophosphate neg,0.0,,12.0,10.0
+C00407,isoleucine,1.41,Yes,isoleucine,1.41,Yes,14.0,17.0
+C00328,l-kynurenine,41.7,Yes,l-kynurenine,41.7,Yes,7.0,4.0
+C00123,l-leucine,3.3,Yes,l-leucine,3.3,Yes,9.0,16.0
+C00149,malic acid,0.7,Yes,malic acid,0.7,Yes,15.0,25.0
+C00073,methionine,0.0,,methionine,0.0,,80.0,16.0
+C06470,muramic acid,0.0,,muramic acid,0.0,,1.0,1.0
+C00140,n-acetyl glucosamine,0.0,,n-acetyl glucosamine,0.0,,28.0,5.0
+C00624,n-acetyl glutamic acid,1.1,Yes,n-acetyl glutamic acid,1.1,Yes,5.0,6.0
+C02713,n-acetyl muramic acid pos,2.8,Yes,n-acetyl muramic acid pos,2.8,Yes,4.0,4.0
+C00004,NAD pos,20.9,,NAD pos,20.9,,1005.0,5.0
+C00077,ornithine,0.0,,ornithine,0.0,,24.0,13.0
+C00295,orotic acid,0.0,,orotic acid,0.0,,5.0,3.0
+C00864,pantothenic acid neg,51.9,Yes,pantothenic acid neg,51.9,Yes,7.0,6.0
+C00079,phenylalanine,39.7,Yes,phenylalanine,39.7,Yes,34.0,24.0
+C00074,phosphoenolpyruvate,0.0,,phosphoenolpyruvate,0.0,,36.0,26.0
+C00197,phosphoglyceric acid,0.0,Yes,phosphoglyceric acid,0.0,Yes,21.0,26.0
+C05786,phycocyanobilin,0.0,,phycocyanobilin,0.0,,3.0,2.0
+C00148,proline,0.0,,proline,0.0,,17.0,14.0
+C00134,Putrescine,0.0,,Putrescine,0.0,,21.0,10.0
+C00314,pyridoxine,6.8,Yes,pyridoxine,6.8,Yes,9.0,4.0
+C00255,riboflavin,87.6,Yes,riboflavin,87.6,Yes,9.0,6.0
+C00021,s-(5'-adenosyl)-L-homocysteine pos,43.3,Yes,s-(5'-adenosyl)-L-homocysteine pos,43.3,Yes,457.0,5.0
+C00019,s-adenosyl-L-methionine,0.0,,s-adenosyl-L-methionine,0.0,,517.0,13.0
+C00213,sarcosine,0.0,,sarcosine,0.0,,14.0,3.0
+C00065,serine,0.0,,serine,0.0,,41.0,26.0
+C00093,sn-glycerol 3-phosphate pos ,0.0,,sn-glycerol 3-phosphate pos ,0.0,,26.0,6.0
+C00315,spermidine,0.0,,spermidine,0.0,,24.0,8.0
+C00042,succinic acid,0.0,,succinic acid,0.0,,191.0,32.0
+C10833,syringic acid,32.9,Yes,syringic acid,32.9,Yes,1.0,2.0
+C00245,taurine,0.0,,taurine,0.0,,15.0,6.0
+C05122,sodium taurocholate,92.8,Yes,sodium taurocholate,92.8,Yes,2.0,6.0
+C00378,thiamine,2.0,Yes,thiamine,2.0,Yes,8.0,6.0
+C01081,thiamine monophosphate,0.0,,thiamine monophosphate,0.0,,7.0,3.0
+C00188,threonine (isom. homoserine),0.0,,threonine (isom. homoserine),0.0,,15.0,14.0
+C00214,thymidine,52.6,Yes,thymidine,52.6,Yes,6.0,3.0
+C00398,tryptamine,21.3,Yes,tryptamine,21.3,Yes,12.0,7.0
+C00078,tryptophan,46.7,Yes,tryptophan,46.7,Yes,40.0,25.0
+C00082,l-tyrosine,2.1,Yes,l-tyrosine,2.1,Yes,42.0,35.0
+C00106,uracil pos,0.0,,uracil pos,0.0,,18.0,5.0
+C00105,uridine 5-monophosphate pos,0.0,,uridine 5-monophosphate pos,0.0,,32.0,4.0
+C00183,valine,0.0,,valine,0.0,,12.0,18.0
+C00385,xanthine pos,0.3,,xanthine pos,0.3,,17.0,8.0
+C01762,xanthosine neg,10.4,Yes,xanthosine neg,10.4,Yes,5.0,7.0
