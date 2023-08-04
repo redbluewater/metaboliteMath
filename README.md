@@ -1,6 +1,6 @@
 # metaboliteMath
-Use to count pathways and reactions for metabolites.\
-Krista Longnecker, updated 4 August 2023
+Use to count pathways and reactions for metabolites based on information in KEGG.\
+Krista Longnecker, updated 4 August 2023\
 Woods Hole Oceanographic Institution
 
 Code originally used in the Pro_mtabs project ([link here](https://github.com/KujawinskiLaboratory/Pro_mtabs)), and updated for work with the metabolites in the Sargasso Sea. Some specific notes follow.
