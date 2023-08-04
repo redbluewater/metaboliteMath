@@ -76,6 +76,7 @@ C00255,riboflavin,87.6,Yes,riboflavin,87.6,Yes,9.0,6.0
 C00021,s-(5'-adenosyl)-L-homocysteine pos,43.3,Yes,s-(5'-adenosyl)-L-homocysteine pos,43.3,Yes,457.0,5.0
 C00019,s-adenosyl-L-methionine,0.0,,s-adenosyl-L-methionine,0.0,,517.0,13.0
 C00213,sarcosine,0.0,,sarcosine,0.0,,14.0,3.0
+C00041,alanine,,,alanine,,,54.0,20.0
 C00065,serine,0.0,,serine,0.0,,41.0,26.0
 C00093,sn-glycerol 3-phosphate pos ,0.0,,sn-glycerol 3-phosphate pos ,0.0,,26.0,6.0
 C00315,spermidine,0.0,,spermidine,0.0,,24.0,8.0
@@ -85,7 +86,8 @@ C00245,taurine,0.0,,taurine,0.0,,15.0,6.0
 C05122,sodium taurocholate,92.8,Yes,sodium taurocholate,92.8,Yes,2.0,6.0
 C00378,thiamine,2.0,Yes,thiamine,2.0,Yes,8.0,6.0
 C01081,thiamine monophosphate,0.0,,thiamine monophosphate,0.0,,7.0,3.0
-C00188,threonine (isom. homoserine),0.0,,threonine (isom. homoserine),0.0,,15.0,14.0
+C00263,homoserine (isomer),0.0,,homoserine (isomer),0.0,,7.0,8.0
+C00188,threonine (isomer),,,threonine (isomer),,,15.0,14.0
 C00214,thymidine,52.6,Yes,thymidine,52.6,Yes,6.0,3.0
 C00398,tryptamine,21.3,Yes,tryptamine,21.3,Yes,12.0,7.0
 C00078,tryptophan,46.7,Yes,tryptophan,46.7,Yes,40.0,25.0

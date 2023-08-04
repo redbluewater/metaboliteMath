@@ -1,0 +1,99 @@
+KEGG,mtabNames,extEff,Sargasso
+C00196,2-3-dihydroxybenzoic acid,100.9,Yes
+C19675,2-3-dihydroxypropane1sulfonate,0.6,Yes
+C08276,3-mercapto proprionate,88.6,Yes
+C00141,3-methyl-2-oxobutanoic acid,10.1,Yes
+C00671,3-methyl-2-oxopentanoic acid,50.1,
+C04294,HET,11.2,Yes
+C00568,4-aminobenzoic acid,18.5,Yes
+C00156,4-hydroxybenzoic acid,88,Yes
+C00233,4-methyl-2-oxopentanoic acid,43.4,
+C01279,HMP,0,
+C20267,AmMP,0,
+C00170,5'-Deoxy-5'(methylthio)adenosine,80.9,Yes
+C00334,GABA,0,
+0,acetyltaurine,0,
+C00147,adenine pos,0,
+C00212,adenosine,6.5,Yes
+C00020,adenosine 5'-monophosphate pos,0.2,
+C00026,alpha-ketoglutaric acid,0,
+C00062,arginine,0,
+C00049,aspartic acid pos,0,
+C00719,betaine,0,
+C00120,biotin neg,52.8,Yes
+C07481,caffeine,23.5,Yes
+C01674,chitobiose pos,0.3,
+0,chitotriose,5.6,Yes
+C00114,choline,0,
+C03557,ciliatine,0,
+C00158,citric acid,0.9,
+C00327,citrulline,0,
+C08230,cyanocobalamin,79.1,Yes
+C00097,l-cysteine,0,
+C00380,cytosine,0,
+C01909,desthiobiotin pos,6.5,Yes
+C00352,D-glucosamine 6-phosphate,0,
+C00117,D-ribose 5-phosphate,0.1,Yes
+C00111,dihydroxyacetone phosphate,0,
+C04022,DMSP,0,
+C06231,ectoine,0,
+C00504,folic acid neg,41.2,Yes
+C06454,fosfomycin,0,
+C00122,fumaric acid,0,
+C00092,glucose6P,0,
+C00025,glutamic acid,0,
+C00064,glutamine,0,
+C00051,l-glutathione,1.1,Yes
+C00127,glutathione oxidized,1.5,Yes 
+C01705,glyphosate,15.1,
+C00242,guanine,0,
+C00387,guanosine pos,7.7,Yes
+C06767,hemin II,0,
+C00954,indole 3-acetic acid,16.8,Yes
+C00294,inosine,8.1,Yes
+C00130,inosine 5'-monophosphate neg,0,
+C00407,isoleucine,1.41,Yes
+C00328,l-kynurenine,41.7,Yes
+C00123,l-leucine,3.3,Yes
+C00149,malic acid,0.7,Yes
+C00073,methionine,0,
+C06470,muramic acid,0,
+C00140,n-acetyl glucosamine,0,
+C00624,n-acetyl glutamic acid,1.1,Yes
+C02713,n-acetyl muramic acid pos,2.8,Yes
+C00004,NAD pos,20.9,
+C00077,ornithine,0,
+C00295,orotic acid,0,
+C00864,pantothenic acid neg,51.9,Yes
+C00079,phenylalanine,39.7,Yes
+C00074,phosphoenolpyruvate,0,
+C00197,phosphoglyceric acid,0,Yes
+C05786,phycocyanobilin,0,
+C00148,proline,0,
+C00134,Putrescine,0,
+C00314,pyridoxine,6.8,Yes
+C00255,riboflavin,87.6,Yes
+C00021,s-(5'-adenosyl)-L-homocysteine pos,43.3,Yes
+C00019,s-adenosyl-L-methionine,0,
+C00213,sarcosine,0,
+C00041,alanine,,
+C00065,serine,0,
+C00093,sn-glycerol 3-phosphate pos ,0,
+C00315,spermidine,0,
+C00042,succinic acid,0,
+C10833,syringic acid,32.9,Yes
+C00245,taurine,0,
+C05122,sodium taurocholate,92.8,Yes
+C00378,thiamine,2,Yes
+C01081,thiamine monophosphate,0,
+C00263,homoserine (isomer),0,
+C00188,threonine (isomer),,
+C00214,thymidine,52.6,Yes
+C00398,tryptamine,21.3,Yes
+C00078,tryptophan,46.7,Yes
+C00082,l-tyrosine,2.1,Yes
+C00106,uracil pos,0,
+C00105,uridine 5-monophosphate pos,0,
+C00183,valine,0,
+C00385,xanthine pos,0.3,
+C01762,xanthosine neg,10.4,Yes
